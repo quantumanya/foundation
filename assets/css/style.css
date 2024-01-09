@@ -42,7 +42,23 @@
     24.1. Footer Widget CSS
 	
 
+
+
+
+
+
 -----------------------------------------------------------------------------------*/
+
+
+.basil-logo {
+	font-size: 22px;
+    line-height: initial;
+    font-family: system-ui;
+    font-weight: 700;
+}
+
+
+
 /*----------------------------------------*/
 /*  01. Theme default CSS
 /*----------------------------------------*/
@@ -1911,6 +1927,9 @@ textarea:-ms-input-placeholder {
   z-index: 1;
 }
 
+
+
+
 .techwix-hero-section .shape-2 {
   position: absolute;
   width: 100%;
@@ -2019,6 +2038,7 @@ textarea:-ms-input-placeholder {
   }
   .techwix-hero-section .hero-content {
     padding-top: 70px;
+	padding-left: 40px;
   }
   .techwix-hero-section .hero-images {
     padding-top: 50px;
