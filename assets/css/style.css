@@ -56,13 +56,13 @@
     font-family: system-ui;
     font-weight: 700;
 }
-
+ 
 .dao {
 	font-size: 137px!important;
     line-height: 54px!important;
     font-weight: 600;
-    color: #746ff4;
 	margin-top: 24px!important;
+    color: #746ff4;
 }
 .dao2 {
 	margin: 0px!important;
